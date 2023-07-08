@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftConsConfig", "SoftConsConfig\SoftConsConfig.csproj", "{CEFA5E23-327F-4232-A6A8-23D877F3A107}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetRow", "SetRow\SetRow.csproj", "{CEFA5E23-327F-4232-A6A8-23D877F3A107}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
