@@ -38,6 +38,10 @@ namespace SoftConsConfig
         [STAThread]
         private static void Main()
         {
+
+
+         //updat
+
                 //ApplicationConfiguration.Initialize();
                 Application.Run(new Form2());
             //this.plcHsd2000.PlcHsd_InitOggetti(null, null, null, null, null);
